@@ -4,3 +4,8 @@ https://tinyurl.com/2ox46lup
 https://tinyurl.com/2k9ec4zy - added led
 https://tinyurl.com/2fqhma4g - tidy
 https://tinyurl.com/2jy94jec - Added switch
+
+
+Issues on v1:
+ - Clips inputs over 7.8V. Probably something internal in the DG418LDJ.
+   Could attenuate the input and amplify the output with a few design changes.
